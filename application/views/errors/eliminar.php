@@ -1,1 +1,21 @@
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, ipsam. Eos nemo numquam, architecto amet quis nobis veniam minus ad provident suscipit eligendi rerum in repellat perferendis, quod. Praesentium, perspiciatis?
+<html>
+	<h1>hola kundo</h1>
+	<table>
+		<thead>
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+		</tbody>
+	</table>
+</html>
